@@ -4,13 +4,16 @@
 Dana’s webpage and dynamic table are working as intended, but she’d like to provide a more in-depth analysis of UFO sightings by allowing users to filter for multiple criteria at the same time. In addition to the date, I've added table filters for the city, state, country, and shape.
 
 ### Results: 
-The table is filterable with multiple criteria. I have added filters for city, state, country, and shape. Someone can look up information using one or more of these criteria to find information about possible sightings.
+The table is now filterable with multiple criteria. I have added filters for city, state, country, and shape. Someone can look up information using one or more of these criteria to find information about UFO sightings.
 
 Searches can be conducted using one critereia like the date (1/1/2010):
+https://github.com/mcginav/UFOs/blob/main/Image%201.jpg
 
 In this example the date remained 1/1/2010, but the state of ca was used to limit the results:
+https://github.com/mcginav/UFOs/blob/main/Image%202.jpg
 
 And here, "light" was selected to narrow the results down even futher:
+https://github.com/mcginav/UFOs/blob/main/Image%203.jpg
 
 ### Summary:
 Drawbacks of this new design:
